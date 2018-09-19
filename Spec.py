@@ -57,3 +57,4 @@ AutoHand_com = 'com10'
 AutoHand_bound = '9600'
 #统计
 stop_when_neterr = 'True'#False or True
+#huahuass
